@@ -25,7 +25,7 @@ title: The Intro
 
 ## Week
 
-* Monday - Tools, APIs
+* Monday - Tools, APIs, Languages
 * Tuesday - Serving
 * Wednesday - Break
 * Thursday - Storage
@@ -48,6 +48,12 @@ FREAKING COMPUTERS
 ## Any questions
 
 Speak now, or be silent for the week.
+
+---
+
+## Show yourselves!
+
+I would love to see your works.
 
 ---
 
@@ -93,6 +99,21 @@ Backend for storing and managing presentation files for Showrum.
 * Presentation management
 * User management
 * User authentication and authorization
+
+---
+
+## Project requirements
+
+* Groups
+* Public git repo
+
+---
+
+## FOSS FTW
+
+* Everywhere
+* You can help
+* Power for the good
 
 ---
 
@@ -172,6 +193,14 @@ Backend for storing and managing presentation files for Showrum.
 
 ---
 
+## Basic architecture
+
+* Storage
+* Serverving
+* Presentation
+
+---
+
 ## Second aside
 
 * FaaS
@@ -182,6 +211,8 @@ Backend for storing and managing presentation files for Showrum.
 ---
 
 ## Q&A
+
+---
 
 ===
 
@@ -253,9 +284,7 @@ title: Serving
 ## Hybrid
 
 * Almost All of the already mentioned
-* JavaScript
-
----
+* JavaScript---
 
 ## Frameworks
 
@@ -360,7 +389,6 @@ title: Storage
 
 * MySQL
 * PostgreSQL
-* Oracle
 * MSSQL
 
 ---
