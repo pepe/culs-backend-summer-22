@@ -1,6 +1,7 @@
 # culs-backend-summer-2019
 
-Information and code for my teaching on CULS in Prague, summer semester 2019
+Information and code for the course I am teaching on CULS in Prague,
+summer semester 2022.
 
 ## Parts:
 

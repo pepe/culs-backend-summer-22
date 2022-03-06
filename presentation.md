@@ -71,7 +71,7 @@ title: Tools, APIs & more
 
 ---
 
-## Monday - Tools, APIs
+## Tools, APIs & more
 
 ---
 
@@ -211,8 +211,6 @@ Backend for storing and managing presentation files for Showrum.
 ---
 
 ## Q&A
-
----
 
 ===
 
@@ -355,7 +353,7 @@ title: Storage
 
 ---
 
-## Wednesday - Storage
+## Storage
 
 ---
 
@@ -448,3 +446,4 @@ title: Storage
 * Models
 * Querying
 
+---
