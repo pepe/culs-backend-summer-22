@@ -33,6 +33,10 @@ title: The Intro
 
 ---
 
+## Flyby style
+
+---
+
 ## More Practice
 
 Hopefully I'll get you to practice little more than last semester.
@@ -196,7 +200,7 @@ Backend for storing and managing presentation files for Showrum.
 ## Basic architecture
 
 * Storage
-* Serverving
+* Serving
 * Presentation
 
 ---
@@ -275,22 +279,42 @@ title: Serving
 
 * Janet
 * Lisp syntax
-* Multiparadigma
+* Multiparadigm
 
 ---
 
-## Hybrid
+## Multiparadigm
 
 * Almost All of the already mentioned
-* JavaScript---
+* JavaScript
+
+---
 
 ## Frameworks
 
 * Ruby - Ruby on Rails
 * Python - Django
-* Java, Scala - Play
+* Java - Play
 * PHP - Symphony
-* JavaScript - Feathers.js
+* Node - Express
+
+---
+
+## Frameworks
+
+* Feathers
+* Gorilla
+* Phoenix
+* Good Place
+ 
+---
+
+## Feathers.js
+
+* Node.js based
+* REST API first
+* Storage agnostic
+* Generating
 
 ---
 
@@ -303,20 +327,27 @@ title: Serving
 
 ---
 
-## Feathers.js
-
-* Node.js based
-* REST API first
-* Storage agnostic
-* Generating
-
----
-
 ## HTTP servers
 
 * Apache
 * Nginx
 * Caddy
+
+---
+
+## Certificates
+
+* Many providers
+* Let's encrypt
+* Caddy
+
+---
+
+## Proxy
+
+* httpd process routing
+* nginx example
+* Hands on
 
 ---
 

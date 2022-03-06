@@ -9,6 +9,7 @@ summer semester 2022.
 
 ## Links: 
 
+- [FOSS](https://xkcd.com/2347/)
 - [Microservices](https://en.wikipedia.org/wiki/Microservices)
 - [Containers](https://en.wikipedia.org/wiki/Operating-system-level_virtualization)
 - [Serverless](https://en.wikipedia.org/wiki/Serverless_computing)
@@ -48,11 +49,16 @@ summer semester 2022.
 - [Janet](http://janet-lang.org)
 - [Ruby on Rails](http://rubyonrails.org)
 - [Django](https://www.djangoproject.com)
+- [Express](https://expressjs.com/)
+- [Gorilla](https://www.gorillatoolkit.org/)
+- [Phoenix](https://www.phoenixframework.org/)
 - [Feathers.js](http://feathersjs.com)
+- [Good Place](https://good-place.org/)
 - [Node](https://nodejs.org/en/)
 - [Apache](https://httpd.apache.org/)
 - [nginx](https://nginx.org/en/)
 - [Caddy](https://caddyserver.com/)
+- [Let's encrypt](https://letsencrypt.org/)
 - [Azure](https://azure.microsoft.com/en-us/)
 - [Amazon AWS](https://aws.amazon.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
