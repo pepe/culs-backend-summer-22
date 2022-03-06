@@ -9,8 +9,6 @@ summer semester 2022.
 
 ## Links: 
 
-### Monday links
-
 - [Microservices](https://en.wikipedia.org/wiki/Microservices)
 - [Containers](https://en.wikipedia.org/wiki/Operating-system-level_virtualization)
 - [Serverless](https://en.wikipedia.org/wiki/Serverless_computing)
@@ -60,8 +58,6 @@ summer semester 2022.
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Auth0](https://auth0.com)
 - [OpenSensors](https://www.opensensors.io)
-
-### Tuesday
 - [MySQL](https://www.mysql.com)
 - [PostgreSQL](https://www.postgresql.org)
 - [Redis](https://redis.io/)
