@@ -302,10 +302,10 @@ title: Serving
 
 ## Frameworks
 
-* Feathers
-* Gorilla
-* Phoenix
-* Good Place
+* JavaScript - Feathers
+* Go - Gorilla
+* Elixir - Phoenix
+* Janet - Good Place
  
 ---
 
