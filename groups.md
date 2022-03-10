@@ -22,3 +22,9 @@ Srimathi Ravisankar
 Ibn Haque Md Faisal
 Tripty Shahina Islam
 Islam Md Sharikul
+
+# Group Whale_Flowerplant:
+    Ivan Tsvietkov
+    Illia Prazdnyk 
+    Nikita Iakovlev
+    Denis Kyselnikov
