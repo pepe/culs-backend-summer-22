@@ -51,3 +51,10 @@ Kikani Parshad
 Kumar Harish
 Hamame Berhanu Woldegiorgis
 Okwuigbo ifeanyi Christian
+
+# Group Whale_Flowerplant:
+   Ivan Tsvietkov
+   Illia Prazdnyk 
+   Nikita Iakovlev
+   Denis Kiselnikov
+
