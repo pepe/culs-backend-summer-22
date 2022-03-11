@@ -29,3 +29,9 @@ Supriya Kumari
 Omar Fatma Elzahra
 Urmina Hossain Depy
 Kishk Ahmed
+
+# Team Devdivas
+Kikani Parshad
+Kumar Harish
+Hamame Berhanu Woldegiorgis
+Okwuigbo ifeanyi Christian
