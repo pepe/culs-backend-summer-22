@@ -23,6 +23,12 @@ Ibn Haque Md Faisal
 Tripty Shahina Islam
 Islam Md Sharikul
 
+# Some group
+Zein Hammad
+Bernard Amofa
+Anastassiya Li
+Anuki
+
 # Team SAN
 Nemiah Magazine
 Amanuel Abuerra Chala
