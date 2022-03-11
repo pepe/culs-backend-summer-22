@@ -23,6 +23,11 @@ Ibn Haque Md Faisal
 Tripty Shahina Islam
 Islam Md Sharikul
 
+# Team SAN
+Nemiah Magazine
+Amanuel Abuerra Chala
+Sitina Jemal Hussein
+
 # Team Bac/<-End
 Ahmed Tebakhi
 Mohannad Muhtaseb
